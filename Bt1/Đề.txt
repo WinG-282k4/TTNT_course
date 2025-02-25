@@ -1,0 +1,17 @@
+1. Tự đề xuất 1 mê cung ngẫu nhiên , số cột và số hàng bất kỳ (số hàng và số cột bất kỳ từ 5 đến 15), thực hiện tìm kiếm BFS, DFS và UCS. 
+
+a) Trình bày các bước thực hiện thuật toán 
+
+b) Lập trình code python, lưu ý chú thích các dòng code.  
+
+2. Tự đề xuất đồ thị vô hướng ngẫu nhiên, tối thiểu 12 node, có trọng số là số nguyên dương bất kỳ (đồ thị có hình ảnh) thực hiện tìm kiếm BFS, DFS và UCS,  
+
+a) Trình bày các bước thực hiện thuật toán 
+
+b) Lập trình code python, lưu ý chú thích các dòng code.   
+
+*Lưu ý: Không chép nhau và Không sử dụng công cụ AI hỗ trợ như GPT, Gemini 
+
+Deadine: 21:00 ngày 26/2. 
+
+Copy kết quả thực hiện gồm thuật toán và code, hoặc link đường dẫn vào file 1 file word hoặc pdf! Nén các file code python + word thành 1 file msv.rar 
